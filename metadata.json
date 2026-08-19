@@ -1,0 +1,10 @@
+{
+  "name": "Live Location Share & Map Dashboard",
+  "description": "Real-time location sharing client and interactive live map dashboard powered by WebSockets and geolocation tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

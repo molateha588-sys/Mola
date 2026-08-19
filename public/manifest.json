@@ -1,0 +1,16 @@
+{
+  "short_name": "LocateX Sync",
+  "name": "LocateX Real-Time Location Tracker",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/?mode=share",
+  "background_color": "#0f172a",
+  "theme_color": "#2563eb",
+  "display": "standalone",
+  "orientation": "portrait"
+}
